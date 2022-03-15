@@ -1,0 +1,888 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Boton1{
+    background-color:#2575cc;
+    color: white;
+    border: #2575cc;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    border-radius: 7%;
+    cursor: pointer;
+    font-size: medium;
+    position: relative;
+    top: -200px;
+    bottom: 0px;
+    right: 0px;
+    left: 535px;
+    display: inline-block;
+}
+.Vacunacion{
+    color:#2575cc;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 30px;
+    display: inline-block;
+}
+.Tabla{
+    color: #7F7679;
+    text-align: center;
+    background-color: #ffffff;
+    border: none;
+    font-size: medium;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    top:-200px;
+    bottom: 0px;
+    right: 0px;
+    left: 510px;
+    display: inline-block;
+}
+.Tabla1{
+    color: #7F7679;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    font-size: medium;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    top:-200px;
+    bottom: 0px;
+    right: 0px;
+    left: 510px;
+    display: inline-block;
+}
+.Lucha{
+    color: #0C134A;
+    position: relative;
+    top:-110px;
+    bottom: 0px;
+    right: 0px;
+    left: 50px;
+    font-size: 60px;
+    font-weight: 50px;
+}
+.Texto1{
+    color:#08298A;
+    position: relative;
+    top:-110px;
+    bottom: 0px;
+    right: 0px;
+    left: 50px;
+}
+.PPalabras{
+    background-color: #ffffff;
+    color: #08298A;
+    border: none;
+    position: relative;
+    top:-110px;
+    bottom: 0px;
+    right: 0px;
+    left: 50px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 180px;
+    height: 40px;
+}
+.Programa{
+    background-color: #ffffff;
+    color: #08298A;
+    border: none;
+    position: relative;
+    top:-110px;
+    bottom: 0px;
+    right: 0px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    height: 40px; 
+}
+.Imagen1{
+    width: auto;
+    height: 700px;
+    position: relative;
+    top: -1470px;
+    bottom: 0px;
+    right: 0px;
+    left: 800px;
+}
+.Fondo1{
+    background-color:  #eef3fa;
+    width: 725px;
+    height: 160px;
+    position: relative;
+    top: -75px;
+    bottom: 0%;
+    right: 0%;
+    left: 660px;
+}
+.Fondo2{
+    background-color:  #2575cc ;
+    width: 725px;
+    height: 800px;
+    position: relative;
+    top: -770px;
+    bottom: 0%;
+    right: 0%;
+    left: 660px; 
+}
+.Triangulo1{
+    width: 0px;
+    height: 0px;
+    border-right: 80px solid transparent;
+    border-left: 80px solid transparent;
+    border-top: 80px solid #f0f0f0;
+    position: relative;
+    top: -115px;
+    bottom: 0%;
+    right: 0%;
+    left: 0px;
+}
+.Triangulo2{
+    width: 0px;
+    height: 0px;
+    border-right: 80px solid #f0f0f0;
+    border-top: 80px solid transparent;
+    border-bottom: 80px solid transparent;
+    position: relative;
+    top: -210px;
+    bottom: 0%;
+    right: 0%;
+    left: 581px;
+}
+.Astrazeneca{
+    width: 280px;
+    height: auto;
+    position: relative;
+    top: -1300px;
+    bottom: 0%;
+    right: 0%;
+    left: -470px;
+    border: #000000;
+}
+.Sinovac{
+    width: 280px;
+    height: auto;
+    position: relative;
+    top: -1300px;
+    bottom: 0%;
+    right: 0%;
+    left: -430px;
+    border: #000000;
+}
+.Pfizer{
+    width: 280px;
+    height: auto;
+    position: relative;
+    top: -1420px;
+    bottom: 0%;
+    right: 0%;
+    left: 670px;
+    border: #000000;
+}
+.Moderna{
+    width: 280px;
+    height: auto;
+    position: relative;
+    top: -1455px;
+    bottom: 0%;
+    right: 0%;
+    left: 720px;
+    border: #000000;
+}
+.Quien{
+    color: #0C134A;
+    position: relative;
+    top:-1350px;
+    bottom: 0px;
+    right: 0px;
+    left: 30px;
+    font-size: 40px;
+}
+.Texto2{
+    color: #08298A;
+    position: relative;
+    top:-1350px;
+    bottom: 0px;
+    right: 0px;
+    left: 30px;
+    font-size: 20px;
+}
+.Triangulo3{
+    width: 0px;
+    height: 0px;
+    border-right: 80px solid #f0f0f0;
+    border-top: 80px solid transparent;
+    border-bottom: 80px solid transparent;
+    position: relative;
+    top: -1570px;
+    bottom: 0%;
+    right: 0%;
+    left: 1262px;
+}
+.Linea1{
+    width: 710px;
+    height: 3px;
+    background-color: #F5F5F5;
+    position: relative;
+    top: -1650px;
+    bottom: 0%;
+    right: 0%;
+    left: 630px;
+}
+.Rectangulo1{
+    width: 280px;
+    height: 300px;
+    background-color: transparent;
+    position: relative;
+    top: -1450px;
+    bottom: 0%;
+    right: 0%;
+    left: 31px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Rectangulo2{
+    width: 280px;
+    height: 300px;
+    background-color: transparent;
+    position: relative;
+    top: -1755px;
+    bottom: 0%;
+    right: 0%;
+    left: 360px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Rectangulo3{
+    width: 280px;
+    height: 300px;
+    background-color: transparent;
+    position: relative;
+    top: -2060px;
+    bottom: 0%;
+    right: 0%;
+    left: 690px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Rectangulo4{
+    width: 280px;
+    height: 300px;
+    background-color: transparent;
+    position: relative;
+    top: -2365px;
+    bottom: 0%;
+    right: 0%;
+    left: 1020px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Tabla2{
+    position: relative;
+    top: -2630px;
+    bottom: 0%;
+    right: 0%;
+    left: 50px;
+    text-align: left;
+}
+.Tabla3{
+    position: relative;
+    top: -2640px;
+    bottom: 0%;
+    right: 0%;
+    left: 105px;
+}
+.Tabla4{
+    position: relative;
+    top: -2640px;
+    bottom: 0%;
+    right: 0%;
+    left: 220px;
+}
+.Tabla5{
+    position: relative;
+    top: -2640px;
+    bottom: 0%;
+    right: 0%;
+    left: 285px;
+}
+.Tabla6{
+    position: relative;
+    top: -2630px;
+    bottom: 0%;
+    right: 0%;
+    left: 50px;
+}
+.Tabla7{
+    position: relative;
+    top: -2640px;
+    bottom: 0%;
+    right: 0%;
+    left: 135px;
+}
+.Tabla8{
+    position: relative;
+    top: -2640px;
+    bottom: 0%;
+    right: 0%;
+    left: 220px;
+}
+.Tabla9{
+    position: relative;
+    top: -2650px;
+    bottom: 0%;
+    right: 0%;
+    left: 310px;
+}
+.Anticuerpos{
+    width: 60px;
+    height: auto;
+    position: relative;
+    top: -2660px;
+    bottom: 0%;
+    right: 0%;
+    left: 40px;
+}
+.Escudo{
+    width: 60px;
+    height: auto;
+    position: relative;
+    top: -2650px;
+    bottom: 0%;
+    right: 0%;
+    left: 315px;
+}
+.Proteger{
+    width: 60px;
+    height: auto;
+    position: relative;
+    top: -2650px;
+    bottom: 0%;
+    right: 0%;
+    left: 580px;
+}
+.Virus{
+    width: 60px;
+    height: auto;
+    position: relative;
+    top: -2650px;
+    bottom: 0%;
+    right: 0%;
+    left: 850px;
+}
+.Triangulo4{
+    width: 0px;
+    height: 0px;
+    border-left: 80px solid #f0f0f0;
+    border-top: 80px solid transparent;
+    border-bottom: 80px solid transparent;
+    position: relative;
+    top: -2420px;
+    bottom: 0%;
+    right: 0%;
+    left: 0px;
+}
+.Linea2{
+    width: 550px;
+    height: 3px;
+    background-color: #F5F5F5;
+    position: relative;
+    top: -2500px;
+    bottom: 0%;
+    right: 0%;
+    left: 0px;
+}
+.Fondo3{
+    background-color:  #2575cc ;
+    width: 600px;
+    height: 550px;
+    position: relative;
+    top: -2350px;
+    bottom: 0%;
+    right: 0%;
+    left: 0px; 
+}
+.Preparacion{
+    position: relative;
+    top: -3815px;
+    bottom: 0%;
+    right: 0%;
+    left: 640px; 
+    color: #0C134A;
+    font-size: 40px;
+}
+.Texto3{
+    color: #08298A;
+    position: relative;
+    top:-3815px;
+    bottom: 0px;
+    right: 0px;
+    left: 640px;
+    font-size: 20px;
+}
+.Mujer{
+    height: 700px;
+    width: auto;
+    position: relative;
+    top:-3050px;
+    bottom: 0px;
+    right: 0px;
+    left: -232px;
+}
+.Tabla10{
+    color: #08298A;
+    position: relative;
+    top:-3800px;
+    bottom: 0px;
+    right: 0px;
+    left: 640px;
+    font-size: 18px;
+}
+.Boton2{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 15%;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 70px;
+}
+.Boton3{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 15%;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 168px;
+}
+.Boton4{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 15%;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 128px;
+}
+.Boton5{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 15%;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 130px;
+}
+.Boton6{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 15%;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 68px;
+}
+.Triangulo5{
+    width: 0px;
+    height: 0px;
+    border-right: 80px solid #f0f0f0;
+    border-top: 80px solid transparent;
+    border-bottom: 80px solid transparent;
+    position: relative;
+    top: -3520px;
+    bottom: 0%;
+    right: 0%;
+    left: 1263px;
+}
+.Linea3{
+    width: 650px;
+    height: 3px;
+    background-color: #F5F5F5;
+    position: relative;
+    top: -3600px;
+    bottom: 0%;
+    right: 0%;
+    left: 690px;
+}
+.Contactos{
+    color: #0C134A;
+    position: relative;
+    top:-3660px;
+    bottom: 0px;
+    right: 0px;
+    left: 30px;
+    font-size: 40px;
+}
+.Texto4{
+    color: #08298A;
+    position: relative;
+    top:-3650px;
+    bottom: 0px;
+    right: 0px;
+    left: 30px;
+    font-size: 20px;
+}
+.Rectangulo5{
+    width: 280px;
+    height: 230px;
+    background-color: transparent;
+    position: relative;
+    top: -3620px;
+    bottom: 0%;
+    right: 0%;
+    left: 31px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Rectangulo6{
+    width: 280px;
+    height: 230px;
+    background-color: transparent;
+    position: relative;
+    top: -3855px;
+    bottom: 0%;
+    right: 0%;
+    left: 370px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Rectangulo7{
+    width: 280px;
+    height: 230px;
+    background-color: transparent;
+    position: relative;
+    top: -3830px;
+    bottom: 0%;
+    right: 0%;
+    left: 31px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Rectangulo8{
+    width: 280px;
+    height: 230px;
+    background-color: transparent;
+    position: relative;
+    top: -4065px;
+    bottom: 0%;
+    right: 0%;
+    left: 370px;
+    border: solid;
+    border-radius: 10%;
+    border-width: 3px;
+    border-color: #F5F5F5;
+}
+.Llamada{
+    width: 60px;
+    height: auto;
+    position: relative;
+    top: -4540px;
+    bottom: 0%;
+    right: 0%;
+    left: 65px;
+    background-color: #eef3fa;
+    border-radius: 15%;
+}
+.Llamadas{
+    position: relative;
+    top: -4590px;
+    bottom: 0%;
+    right: 0%;
+    left: 130px;
+    text-align: left;
+    font-size: 20px;
+}
+.Num1{
+    position: relative;
+    top: -4590px;
+    bottom: 0%;
+    right: 0%;
+    left: 130px;
+}
+.Boton7{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 10%;
+    position: relative;
+    top: -4580px;
+    bottom: 0px;
+    right: 0px;
+    left: 70px;
+    font-size: 20px;
+    height: 60px;
+    width: 210px;
+}
+.Chat{
+    width: 60px;
+    height: auto;
+    position: relative;
+    top: -4655px;
+    bottom: 0%;
+    right: 0%;
+    left: 190px;
+    background-color: #eef3fa;
+    border-radius: 15%;
+}
+.Chats{
+    position: relative;
+    top: -4725px;
+    bottom: 0%;
+    right: 0%;
+    left: 470px;
+    text-align: left;
+    font-size: 20px;
+}
+.Num2{
+    position: relative;
+    top: -4725px;
+    bottom: 0%;
+    right: 0%;
+    left: 470px;
+}
+.Boton8{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 10%;
+    position: relative;
+    top: -4715px;
+    bottom: 0px;
+    right: 0px;
+    left: 410px;
+    font-size: 20px;
+    height: 60px;
+    width: 210px;
+}
+.Videollamada{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -4530px;
+    bottom: 0%;
+    right: 0%;
+    left: -150px;
+    background-color: #eef3fa;
+    border-radius: 15%;
+}
+.Videollamadas{
+    position: relative;
+    top: -4600px;
+    bottom: 0%;
+    right: 0%;
+    left: 130px;
+    text-align: left;
+    font-size: 20px;
+}
+.Num3{
+    position: relative;
+    top: -4600px;
+    bottom: 0%;
+    right: 0%;
+    left: 130px;
+}
+.Boton9{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 10%;
+    position: relative;
+    top: -4560px;
+    bottom: 0px;
+    right: 0px;
+    left: 70px;
+    font-size: 20px;
+    height: 60px;
+    width: 210px;
+}
+.Mensaje{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -4660px;
+    bottom: 0%;
+    right: 0%;
+    left: 190px;
+    background-color: #eef3fa;
+    border-radius: 15%;
+}
+.Mensajes{
+    position: relative;
+    top: -4730px;
+    bottom: 0%;
+    right: 0%;
+    left: 470px;
+    text-align: left;
+    font-size: 20px;
+}
+.Num4{
+    position: relative;
+    top: -4730px;
+    bottom: 0%;
+    right: 0%;
+    left: 470px;
+}
+.Boton10{
+    background-color: #eef3fa;
+    border: none;
+    color: #2575cc;
+    border-radius: 10%;
+    position: relative;
+    top: -4670px;
+    bottom: 0px;
+    right: 0px;
+    left: 410px;
+    font-size: 20px;
+    height: 60px;
+    width: 210px;
+}
+.Fondo4{
+    background-color:  #2575cc ;
+    width: 650px;
+    height: 510px;
+    position: relative;
+    top: -5150px;
+    bottom: 0%;
+    right: 0%;
+    left: 680px; 
+}
+.Emergencias{
+    height: 680px;
+    width: auto;
+    position: relative;
+    top:-5830px;
+    bottom: 0px;
+    right: 0px;
+    left: 220px;
+    display:inline-block;
+}
+.Fondo5{
+    background-color:  #eef3fa;
+    width: 1342px;
+    height: 500px;
+    position: relative;
+    top: -5650px;
+    bottom: 0%;
+    right: 0%;
+    left: 0px;
+    display:inline-block; 
+}
+.Vacunacion1{
+    color:#2575cc;
+    position: relative;
+    top: -6100px;
+    bottom: 0px;
+    right: 0px;
+    left: 20px;
+    font-size: 25px;
+}
+.Texto5{
+    position: relative;
+    top: -6100px;
+    bottom: 0%;
+    right: 0%;
+    left: 30px;
+    color:#0C134A
+}
+.Encabezado1{
+    width: 200px;
+    position: relative;
+    top: -6240px;
+    bottom: 0%;
+    right: 0%;
+    left: 650px;
+    text-align: left;
+    color: #08298A;
+}
+.Encabezado2{
+    width: 200px;
+    position: relative;
+    top: -6240px;
+    bottom: 0%;
+    right: 0%;
+    left: 650px;
+    text-align: left;
+    color: #08298A;
+}
+.Encabezado3{
+    width: 200px;
+    position: relative;
+    top: -6240px;
+    bottom: 0%;
+    right: 0%;
+    left: 650px;
+    text-align: left;
+    color: #08298A;
+}
+.Tabla11{
+    position: relative;
+    top: -6240px;
+    bottom: 0%;
+    right: 0%;
+    left: 650px;
+    text-align: left;
+    color: #08298A;
+}
+.Tabla12{
+    position: relative;
+    top: -6240px;
+    bottom: 0%;
+    right: 0%;
+    left: 650px;
+    text-align: left;
+    color: #08298A;
+}
+.Tabla13{
+    position: relative;
+    top: -6240px;
+    bottom: 0%;
+    right: 0%;
+    left: 650px;
+    text-align: left;
+    color: #08298A;
+}
+.Triangulo6{
+    width: 0px;
+    height: 0px;
+    border-right: 80px solid transparent;
+    border-left: 80px solid transparent;
+    border-bottom: 80px solid #f0f0f0;
+    position: relative;
+    top: -6030px;
+    bottom: 0%;
+    right: 0%;
+    left: 960px;
+    display: inline-block;
+}
